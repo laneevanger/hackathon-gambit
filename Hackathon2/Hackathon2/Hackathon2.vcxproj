@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="back.c" />
     <ClCompile Include="hackathon.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
