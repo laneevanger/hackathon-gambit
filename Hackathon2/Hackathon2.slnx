@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Hackathon2/Hackathon2.vcxproj" Id="1bfc27e8-de92-47f0-8d8b-fa94e710511d" />
+</Solution>

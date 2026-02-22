@@ -5,4 +5,5 @@
 #include <ctype.h>
 #include <windows.h>
 
-void printHat(void);
+/* function prototypes */
+void printHat(void);	

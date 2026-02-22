@@ -2,5 +2,6 @@
 
 int main(void)
 {
-	printHat();
+    printHat();
+    return 0;
 }
